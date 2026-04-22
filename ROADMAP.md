@@ -3,7 +3,7 @@
 > A personal AI-powered outfit assistant that learns your wardrobe and suggests matching outfits based on your style, body type, and the occasion.
 
 **Builder:** Solo CS student, second year  
-**Time budget:** ~2–4 hours/week  
+**Time budget:** ~2–4 hours/week  git@github.com:Javin2005/StyleAI.git
 **Goal:** Portfolio project + genuine learning in full-stack development and AI
 
 ---
